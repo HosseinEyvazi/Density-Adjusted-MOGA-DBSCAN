@@ -28,6 +28,4 @@ For more details, read the full paper presented at the **First International Con
   - `matplotlib`
   - `joblib`
 
-Install the required packages using:
-```bash
-pip install -r requirements.txt
+
