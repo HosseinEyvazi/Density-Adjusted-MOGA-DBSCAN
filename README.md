@@ -3,7 +3,7 @@
 This repository contains the implementation of **Enhanced MOGA-DBSCAN**, a novel algorithm that improves the clustering quality of DBSCAN by optimizing its parameters using a Multi-Objective Genetic Algorithm (MOGA). The algorithm also introduces a Density-Adjusted Outlier Index for better evaluation of outliers, and parallelizes its computation for scalability.
 
 For more details, read the full paper presented at the **First International Conference on Machine Learning and Knowledge Discovery (MLKD 2024)**:
-[Enhanced MOGA-DBSCAN: Improving Clustering Quality with a Density-Adjusted Outlier Index](https://mlkd.aut.ac.ir/MLKD-2024-Abstracts/19.pdf)
+[Enhanced MOGA-DBSCAN: Improving Clustering Quality with a Density-Adjusted Outlier Index]([https://mlkd.aut.ac.ir/MLKD-2024-Abstracts/19.pdf](https://mlkd.aut.ac.ir/proceedings/2024/paper/3B.6.pdf))
 
 ## Key Features
 
