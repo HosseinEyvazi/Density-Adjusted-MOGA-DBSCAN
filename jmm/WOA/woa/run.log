@@ -1,0 +1,289 @@
+2025-04-17 11:50:27,636 - INFO - Using random seed = 42
+2025-04-17 11:50:27,639 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 11:50:27,640 - INFO - WOA settings: nsols=50, ngens=3, a=2.0, b=0.5, decay=1.0
+2025-04-17 11:50:31,483 - INFO - === FINAL SOLUTION ===
+2025-04-17 11:50:31,487 - INFO - MinPts      = 4
+2025-04-17 11:50:31,487 - INFO - Silhouette  = 0.7472
+2025-04-17 11:50:31,493 - INFO - Rand Index  = 0.9978
+2025-04-17 11:50:31,494 - INFO - Total time: 3.86 seconds
+2025-04-17 11:50:50,460 - INFO - Using random seed = 42
+2025-04-17 11:50:50,463 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 11:50:50,463 - INFO - WOA settings: nsols=50, ngens=3, a=2.0, b=0.5, decay=1.0
+2025-04-17 11:50:54,266 - INFO - === FINAL SOLUTION ===
+2025-04-17 11:50:54,271 - INFO - MinPts      = 4
+2025-04-17 11:50:54,271 - INFO - Silhouette  = 0.7472
+2025-04-17 11:50:54,279 - INFO - Rand Index  = 0.9978
+2025-04-17 11:50:54,280 - INFO - Total time: 3.82 seconds
+2025-04-17 11:51:05,330 - INFO - Using random seed = 43
+2025-04-17 11:51:05,333 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 11:51:05,333 - INFO - WOA settings: nsols=50, ngens=3, a=2.0, b=0.5, decay=1.0
+2025-04-17 11:51:08,579 - INFO - === FINAL SOLUTION ===
+2025-04-17 11:51:08,583 - INFO - MinPts      = 20
+2025-04-17 11:51:08,583 - INFO - Silhouette  = 0.8035
+2025-04-17 11:51:08,590 - INFO - Rand Index  = 0.9956
+2025-04-17 11:51:08,590 - INFO - Total time: 3.26 seconds
+2025-04-17 11:51:20,986 - INFO - Using random seed = 44
+2025-04-17 11:51:20,990 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 11:51:20,990 - INFO - WOA settings: nsols=50, ngens=3, a=2.0, b=0.5, decay=1.0
+2025-04-17 11:51:24,365 - INFO - === FINAL SOLUTION ===
+2025-04-17 11:51:24,371 - INFO - MinPts      = 19
+2025-04-17 11:51:24,371 - INFO - Silhouette  = 0.7676
+2025-04-17 11:51:24,379 - INFO - Rand Index  = 0.9761
+2025-04-17 11:51:24,379 - INFO - Total time: 3.39 seconds
+2025-04-17 11:52:22,126 - INFO - Using random seed = 45
+2025-04-17 11:52:22,130 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 11:52:22,130 - INFO - WOA settings: nsols=50, ngens=3, a=2.0, b=0.5, decay=1.0
+2025-04-17 11:52:25,424 - INFO - === FINAL SOLUTION ===
+2025-04-17 11:52:25,428 - INFO - MinPts      = 20
+2025-04-17 11:52:25,428 - INFO - Silhouette  = 0.7956
+2025-04-17 11:52:25,434 - INFO - Rand Index  = 0.9912
+2025-04-17 11:52:25,435 - INFO - Total time: 3.31 seconds
+2025-04-17 11:52:38,154 - INFO - Using random seed = 46
+2025-04-17 11:52:38,159 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 11:52:38,159 - INFO - WOA settings: nsols=50, ngens=3, a=2.0, b=0.5, decay=1.0
+2025-04-17 11:52:42,033 - INFO - === FINAL SOLUTION ===
+2025-04-17 11:52:42,037 - INFO - MinPts      = 4
+2025-04-17 11:52:42,037 - INFO - Silhouette  = 0.7472
+2025-04-17 11:52:42,045 - INFO - Rand Index  = 0.9978
+2025-04-17 11:52:42,045 - INFO - Total time: 3.89 seconds
+2025-04-17 11:53:15,718 - INFO - Using random seed = 47
+2025-04-17 11:53:15,721 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 11:53:15,722 - INFO - WOA settings: nsols=50, ngens=3, a=2.0, b=0.5, decay=1.0
+2025-04-17 11:53:18,863 - INFO - === FINAL SOLUTION ===
+2025-04-17 11:53:18,868 - INFO - MinPts      = 20
+2025-04-17 11:53:18,868 - INFO - Silhouette  = 0.7831
+2025-04-17 11:53:18,877 - INFO - Rand Index  = 0.9846
+2025-04-17 11:53:18,877 - INFO - Total time: 3.16 seconds
+2025-04-17 11:53:34,556 - INFO - Using random seed = 48
+2025-04-17 11:53:34,559 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 11:53:34,559 - INFO - WOA settings: nsols=50, ngens=3, a=2.0, b=0.5, decay=1.0
+2025-04-17 11:53:37,849 - INFO - === FINAL SOLUTION ===
+2025-04-17 11:53:37,853 - INFO - MinPts      = 20
+2025-04-17 11:53:37,853 - INFO - Silhouette  = 0.7831
+2025-04-17 11:53:37,859 - INFO - Rand Index  = 0.9846
+2025-04-17 11:53:37,859 - INFO - Total time: 3.30 seconds
+2025-04-17 11:53:52,048 - INFO - Using random seed = 49
+2025-04-17 11:53:52,052 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 11:53:52,052 - INFO - WOA settings: nsols=50, ngens=3, a=2.0, b=0.5, decay=1.0
+2025-04-17 11:53:55,290 - INFO - === FINAL SOLUTION ===
+2025-04-17 11:53:55,293 - INFO - MinPts      = 18
+2025-04-17 11:53:55,294 - INFO - Silhouette  = 0.7714
+2025-04-17 11:53:55,299 - INFO - Rand Index  = 0.9782
+2025-04-17 11:53:55,299 - INFO - Total time: 3.25 seconds
+2025-04-17 11:54:36,642 - INFO - Using random seed = 49
+2025-04-17 11:54:36,645 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 11:54:36,646 - INFO - WOA settings: nsols=50, ngens=15, a=2.0, b=0.5, decay=1.0
+2025-04-17 11:54:52,440 - INFO - === FINAL SOLUTION ===
+2025-04-17 11:54:52,445 - INFO - MinPts      = 20
+2025-04-17 11:54:52,445 - INFO - Silhouette  = 0.7993
+2025-04-17 11:54:52,452 - INFO - Rand Index  = 0.9934
+2025-04-17 11:54:52,452 - INFO - Total time: 15.81 seconds
+2025-04-17 11:55:25,226 - INFO - Using random seed = 50
+2025-04-17 11:55:25,229 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 11:55:25,230 - INFO - WOA settings: nsols=50, ngens=3, a=2.0, b=0.5, decay=1.0
+2025-04-17 11:55:28,474 - INFO - === FINAL SOLUTION ===
+2025-04-17 11:55:28,479 - INFO - MinPts      = 20
+2025-04-17 11:55:28,479 - INFO - Silhouette  = 0.7831
+2025-04-17 11:55:28,487 - INFO - Rand Index  = 0.9846
+2025-04-17 11:55:28,487 - INFO - Total time: 3.26 seconds
+2025-04-17 11:55:53,234 - INFO - Using random seed = 51
+2025-04-17 11:55:53,237 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 11:55:53,237 - INFO - WOA settings: nsols=50, ngens=3, a=2.0, b=0.5, decay=1.0
+2025-04-17 11:55:56,519 - INFO - === FINAL SOLUTION ===
+2025-04-17 11:55:56,523 - INFO - MinPts      = 16
+2025-04-17 11:55:56,524 - INFO - Silhouette  = 0.7597
+2025-04-17 11:55:56,531 - INFO - Rand Index  = 0.9719
+2025-04-17 11:55:56,531 - INFO - Total time: 3.30 seconds
+2025-04-17 11:56:24,129 - INFO - Using random seed = 55
+2025-04-17 11:56:24,132 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 11:56:24,133 - INFO - WOA settings: nsols=50, ngens=5, a=2.0, b=0.5, decay=1.0
+2025-04-17 11:56:30,166 - INFO - === FINAL SOLUTION ===
+2025-04-17 11:56:30,172 - INFO - MinPts      = 4
+2025-04-17 11:56:30,172 - INFO - Silhouette  = 0.7472
+2025-04-17 11:56:30,182 - INFO - Rand Index  = 0.9978
+2025-04-17 11:56:30,182 - INFO - Total time: 6.05 seconds
+2025-04-17 11:57:04,563 - INFO - Using random seed = 56
+2025-04-17 11:57:04,566 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 11:57:04,566 - INFO - WOA settings: nsols=50, ngens=5, a=2.0, b=0.5, decay=1.0
+2025-04-17 11:57:09,902 - INFO - === FINAL SOLUTION ===
+2025-04-17 11:57:09,921 - INFO - MinPts      = 20
+2025-04-17 11:57:09,921 - INFO - Silhouette  = 0.7956
+2025-04-17 11:57:09,933 - INFO - Rand Index  = 0.9912
+2025-04-17 11:57:09,933 - INFO - Total time: 5.37 seconds
+2025-04-17 11:57:27,376 - INFO - Using random seed = 57
+2025-04-17 11:57:27,380 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 11:57:27,381 - INFO - WOA settings: nsols=50, ngens=5, a=2.0, b=0.5, decay=1.0
+2025-04-17 11:57:32,524 - INFO - === FINAL SOLUTION ===
+2025-04-17 11:57:32,528 - INFO - MinPts      = 20
+2025-04-17 11:57:32,528 - INFO - Silhouette  = 0.8035
+2025-04-17 11:57:32,535 - INFO - Rand Index  = 0.9956
+2025-04-17 11:57:32,535 - INFO - Total time: 5.16 seconds
+2025-04-17 11:57:47,177 - INFO - Using random seed = 57
+2025-04-17 11:57:47,180 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 11:57:47,181 - INFO - WOA settings: nsols=50, ngens=3, a=2.0, b=0.5, decay=1.0
+2025-04-17 11:57:50,464 - INFO - === FINAL SOLUTION ===
+2025-04-17 11:57:50,467 - INFO - MinPts      = 16
+2025-04-17 11:57:50,468 - INFO - Silhouette  = 0.7676
+2025-04-17 11:57:50,475 - INFO - Rand Index  = 0.9761
+2025-04-17 11:57:50,475 - INFO - Total time: 3.30 seconds
+2025-04-17 11:58:40,123 - INFO - Using random seed = 58
+2025-04-17 11:58:40,127 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 11:58:40,127 - INFO - WOA settings: nsols=50, ngens=3, a=2.0, b=0.5, decay=1.0
+2025-04-17 11:58:43,326 - INFO - === FINAL SOLUTION ===
+2025-04-17 11:58:43,332 - INFO - MinPts      = 20
+2025-04-17 11:58:43,332 - INFO - Silhouette  = 0.7831
+2025-04-17 11:58:43,340 - INFO - Rand Index  = 0.9846
+2025-04-17 11:58:43,340 - INFO - Total time: 3.22 seconds
+2025-04-17 12:00:11,080 - INFO - Using random seed = 58
+2025-04-17 12:00:11,084 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 12:00:11,084 - INFO - WOA settings: nsols=50, ngens=3, a=2.0, b=0.5, decay=1.0
+2025-04-17 12:00:14,344 - INFO - === FINAL SOLUTION ===
+2025-04-17 12:00:14,347 - INFO - MinPts      = 20
+2025-04-17 12:00:14,348 - INFO - Silhouette  = 0.7831
+2025-04-17 12:00:14,354 - INFO - Rand Index  = 0.9846
+2025-04-17 12:00:14,356 - INFO - NMI Score   = 0.9537
+2025-04-17 12:00:14,356 - INFO - Total time: 3.28 seconds
+2025-04-17 12:00:53,878 - INFO - Using random seed = 58
+2025-04-17 12:00:53,881 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 12:00:53,881 - INFO - WOA settings: nsols=50, ngens=10, a=2.0, b=0.5, decay=1.0
+2025-04-17 12:01:04,219 - INFO - === FINAL SOLUTION ===
+2025-04-17 12:01:04,223 - INFO - MinPts      = 20
+2025-04-17 12:01:04,224 - INFO - Silhouette  = 0.7956
+2025-04-17 12:01:04,231 - INFO - Rand Index  = 0.9912
+2025-04-17 12:01:04,235 - INFO - NMI Score   = 0.9701
+2025-04-17 12:01:04,236 - INFO - Total time: 10.36 seconds
+2025-04-17 12:01:58,861 - INFO - Using random seed = 42
+2025-04-17 12:01:58,864 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 12:01:58,864 - INFO - WOA settings: nsols=50, ngens=10, a=2.0, b=0.5, decay=1.0
+2025-04-17 12:02:10,787 - INFO - === FINAL SOLUTION ===
+2025-04-17 12:02:10,793 - INFO - MinPts      = 4
+2025-04-17 12:02:10,793 - INFO - Silhouette  = 0.7472
+2025-04-17 12:02:10,801 - INFO - Rand Index  = 0.9978
+2025-04-17 12:02:10,803 - INFO - NMI Score   = 0.9916
+2025-04-17 12:02:10,803 - INFO - Total time: 11.94 seconds
+2025-04-17 12:02:27,922 - INFO - Using random seed = 43
+2025-04-17 12:02:27,925 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 12:02:27,925 - INFO - WOA settings: nsols=50, ngens=10, a=2.0, b=0.5, decay=1.0
+2025-04-17 12:02:38,045 - INFO - === FINAL SOLUTION ===
+2025-04-17 12:02:38,050 - INFO - MinPts      = 20
+2025-04-17 12:02:38,050 - INFO - Silhouette  = 0.7956
+2025-04-17 12:02:38,056 - INFO - Rand Index  = 0.9912
+2025-04-17 12:02:38,058 - INFO - NMI Score   = 0.9701
+2025-04-17 12:02:38,058 - INFO - Total time: 10.14 seconds
+2025-04-17 12:03:06,175 - INFO - Using random seed = 60
+2025-04-17 12:03:06,179 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 12:03:06,179 - INFO - WOA settings: nsols=50, ngens=15, a=2.0, b=0.5, decay=1.0
+2025-04-17 12:03:21,271 - INFO - === FINAL SOLUTION ===
+2025-04-17 12:03:21,275 - INFO - MinPts      = 20
+2025-04-17 12:03:21,275 - INFO - Silhouette  = 0.8035
+2025-04-17 12:03:21,281 - INFO - Rand Index  = 0.9956
+2025-04-17 12:03:21,283 - INFO - NMI Score   = 0.9830
+2025-04-17 12:03:21,284 - INFO - Total time: 15.11 seconds
+2025-04-17 12:03:43,018 - INFO - Using random seed = 60
+2025-04-17 12:03:43,021 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 12:03:43,021 - INFO - WOA settings: nsols=50, ngens=25, a=2.0, b=0.5, decay=1.0
+2025-04-17 12:04:08,515 - INFO - === FINAL SOLUTION ===
+2025-04-17 12:04:08,520 - INFO - MinPts      = 20
+2025-04-17 12:04:08,520 - INFO - Silhouette  = 0.8035
+2025-04-17 12:04:08,527 - INFO - Rand Index  = 0.9956
+2025-04-17 12:04:08,530 - INFO - NMI Score   = 0.9830
+2025-04-17 12:04:08,531 - INFO - Total time: 25.51 seconds
+2025-04-17 12:04:56,201 - INFO - Using random seed = 61
+2025-04-17 12:04:56,204 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 12:04:56,204 - INFO - WOA settings: nsols=50, ngens=25, a=2.0, b=0.5, decay=1.0
+2025-04-17 12:05:21,235 - INFO - === FINAL SOLUTION ===
+2025-04-17 12:05:21,239 - INFO - MinPts      = 20
+2025-04-17 12:05:21,239 - INFO - Silhouette  = 0.8035
+2025-04-17 12:05:21,245 - INFO - Rand Index  = 0.9956
+2025-04-17 12:05:21,248 - INFO - NMI Score   = 0.9830
+2025-04-17 12:05:21,248 - INFO - Total time: 25.05 seconds
+2025-04-17 12:07:09,072 - INFO - Using random seed = 62
+2025-04-17 12:07:09,075 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 12:07:09,075 - INFO - WOA settings: nsols=50, ngens=25, a=2.0, b=0.5, decay=1.0
+2025-04-17 12:07:34,662 - INFO - === FINAL SOLUTION ===
+2025-04-17 12:07:34,666 - INFO - MinPts      = 20
+2025-04-17 12:07:34,667 - INFO - Silhouette  = 0.8035
+2025-04-17 12:07:34,674 - INFO - Rand Index  = 0.9956
+2025-04-17 12:07:34,675 - INFO - NMI Score   = 0.9830
+2025-04-17 12:07:34,677 - INFO - Total time: 25.60 seconds
+2025-04-17 12:13:20,370 - INFO - Using random seed = 63
+2025-04-17 12:13:20,373 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 12:13:20,373 - INFO - WOA settings: nsols=50, ngens=25, a=2.0, b=0.5, decay=1.0
+2025-04-17 12:13:45,386 - INFO - === FINAL SOLUTION ===
+2025-04-17 12:13:45,390 - INFO - MinPts      = 20
+2025-04-17 12:13:45,390 - INFO - Silhouette  = 0.8035
+2025-04-17 12:13:45,396 - INFO - Rand Index  = 0.9956
+2025-04-17 12:13:45,399 - INFO - NMI Score   = 0.9830
+2025-04-17 12:13:45,399 - INFO - Total time: 25.03 seconds
+2025-04-17 12:19:33,939 - INFO - Using random seed = 63
+2025-04-17 12:19:33,943 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 12:19:33,943 - INFO - WOA settings: nsols=50, ngens=16, a=2.0, b=0.5, decay=1.0
+2025-04-17 12:19:50,076 - INFO - === FINAL SOLUTION ===
+2025-04-17 12:19:50,079 - INFO - MinPts      = 20
+2025-04-17 12:19:50,079 - INFO - Silhouette  = 0.7993
+2025-04-17 12:19:50,084 - INFO - Rand Index  = 0.9934
+2025-04-17 12:19:50,086 - INFO - NMI Score   = 0.9763
+2025-04-17 12:19:50,086 - INFO - Total time: 16.15 seconds
+2025-04-17 12:20:19,996 - INFO - Using random seed = 64
+2025-04-17 12:20:19,999 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 12:20:19,999 - INFO - WOA settings: nsols=50, ngens=18, a=2.0, b=0.5, decay=1.0
+2025-04-17 12:20:32,857 - INFO - === FINAL SOLUTION ===
+2025-04-17 12:20:32,862 - INFO - MinPts      = 20
+2025-04-17 12:20:32,862 - INFO - Silhouette  = 0.8035
+2025-04-17 12:20:32,866 - INFO - Rand Index  = 0.9956
+2025-04-17 12:20:32,867 - INFO - NMI Score   = 0.9830
+2025-04-17 12:20:32,867 - INFO - Total time: 12.87 seconds
+2025-04-17 12:20:46,783 - INFO - Using random seed = 65
+2025-04-17 12:20:46,786 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 12:20:46,786 - INFO - WOA settings: nsols=50, ngens=18, a=2.0, b=0.5, decay=1.0
+2025-04-17 12:20:59,701 - INFO - === FINAL SOLUTION ===
+2025-04-17 12:20:59,704 - INFO - MinPts      = 20
+2025-04-17 12:20:59,705 - INFO - Silhouette  = 0.8035
+2025-04-17 12:20:59,709 - INFO - Rand Index  = 0.9956
+2025-04-17 12:20:59,711 - INFO - NMI Score   = 0.9830
+2025-04-17 12:20:59,711 - INFO - Total time: 12.93 seconds
+2025-04-17 12:21:35,003 - INFO - Using random seed = 66
+2025-04-17 12:21:35,005 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 12:21:35,005 - INFO - WOA settings: nsols=50, ngens=18, a=2.0, b=0.5, decay=1.0
+2025-04-17 12:21:49,406 - INFO - === FINAL SOLUTION ===
+2025-04-17 12:21:49,411 - INFO - MinPts      = 4
+2025-04-17 12:21:49,411 - INFO - Silhouette  = 0.7472
+2025-04-17 12:21:49,417 - INFO - Rand Index  = 0.9978
+2025-04-17 12:21:49,418 - INFO - NMI Score   = 0.9916
+2025-04-17 12:21:49,419 - INFO - Total time: 14.42 seconds
+2025-04-17 12:25:06,922 - INFO - Using random seed = 67
+2025-04-17 12:25:06,924 - INFO - Loaded data 'custom_cluster_dataset.csv' with 599 samples and 2 features
+2025-04-17 12:25:06,924 - INFO - WOA settings: nsols=50, ngens=25, a=2.0, b=0.5, decay=1.0
+2025-04-17 12:25:24,871 - INFO - === FINAL SOLUTION ===
+2025-04-17 12:25:24,875 - INFO - MinPts      = 20
+2025-04-17 12:25:24,875 - INFO - Silhouette  = 0.8035
+2025-04-17 12:25:24,882 - INFO - Rand Index  = 0.9956
+2025-04-17 12:25:24,884 - INFO - NMI Score   = 0.9830
+2025-04-17 12:25:24,884 - INFO - Total time: 17.96 seconds
+2025-04-17 12:26:58,175 - INFO - Using random seed = 67
+2025-04-17 12:26:58,182 - INFO - Loaded data 'network.csv' with 2633 samples and 2 features
+2025-04-17 12:26:58,182 - INFO - WOA settings: nsols=50, ngens=20, a=2.0, b=0.5, decay=1.0
+2025-04-17 12:29:53,609 - INFO - === FINAL SOLUTION ===
+2025-04-17 12:29:53,614 - INFO - MinPts      = 6
+2025-04-17 12:29:53,614 - INFO - Silhouette  = 0.6533
+2025-04-17 12:29:53,630 - INFO - Rand Index  = 0.9709
+2025-04-17 12:29:53,633 - INFO - NMI Score   = 0.8931
+2025-04-17 12:29:53,633 - INFO - Total time: 175.46 seconds
+2025-04-17 12:32:01,745 - INFO - Using random seed = 67
+2025-04-17 12:32:01,751 - INFO - Loaded data 'network.csv' with 2633 samples and 2 features
+2025-04-17 12:32:01,751 - INFO - WOA settings: nsols=50, ngens=25, a=2.0, b=0.5, decay=1.0
+2025-04-17 12:35:41,240 - INFO - === FINAL SOLUTION ===
+2025-04-17 12:35:41,243 - INFO - MinPts      = 6
+2025-04-17 12:35:41,243 - INFO - Silhouette  = 0.6533
+2025-04-17 12:35:41,259 - INFO - Rand Index  = 0.9709
+2025-04-17 12:35:41,262 - INFO - NMI Score   = 0.8931
+2025-04-17 12:35:41,262 - INFO - Total time: 219.52 seconds
+2025-04-17 12:38:28,247 - INFO - Using random seed = 67
+2025-04-17 12:38:28,251 - INFO - Loaded data 'network.csv' with 2633 samples and 2 features
+2025-04-17 12:38:28,251 - INFO - WOA settings: nsols=50, ngens=30, a=2.0, b=0.5, decay=1.0
+2025-04-17 12:42:58,038 - INFO - === FINAL SOLUTION ===
+2025-04-17 12:42:58,043 - INFO - MinPts      = 6
+2025-04-17 12:42:58,044 - INFO - Silhouette  = 0.6533
+2025-04-17 12:42:58,058 - INFO - Rand Index  = 0.9709
+2025-04-17 12:42:58,061 - INFO - NMI Score   = 0.8931
+2025-04-17 12:42:58,061 - INFO - Total time: 269.81 seconds
